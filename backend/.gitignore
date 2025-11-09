@@ -1,0 +1,54 @@
+.env# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+
+# Vite build output
+dist/
+
+# dotenv environment files
+.env
+.env.*.local
+.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Debug files
+*.swp
+*.swo
+
+# Build and cache
+.cache/
+.next/
+out/
+build/
+
+# Yarn
+yarn.lock
+
+# Mac specific
+.AppleDouble
+.LSOverride
+
+# Wi
